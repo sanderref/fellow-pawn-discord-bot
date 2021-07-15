@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sanderref/fellow-pawn-discord-bot#readme",
   "dependencies": {
+    "chess-web-api": "^1.1.0",
     "discord": "^0.8.2",
     "discord.js": "^12.5.3",
     "dotenv": "^10.0.0"
