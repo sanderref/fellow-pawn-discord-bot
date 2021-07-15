@@ -1,0 +1,22 @@
+{
+  "name": "fellow-pawn-discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot made for the chess meal discord channel and other chess related channels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanderref/fellow-pawn-discord-bot.git"
+  },
+  "author": "Alexander Refshauge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanderref/fellow-pawn-discord-bot/issues"
+  },
+  "homepage": "https://github.com/sanderref/fellow-pawn-discord-bot#readme",
+  "dependencies": {
+    "discord": "^0.8.2"
+  }
+}
