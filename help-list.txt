@@ -1,0 +1,6 @@
+COMMANDS
+----------------------------------------------
+!help       -   if you are lost
+!player     -   look up any player on chess.com
+!joke       -   I crack a joke
+----------------------------------------------
